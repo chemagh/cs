@@ -1,0 +1,114 @@
+.haja{
+    background-image: url(https://images7.alphacoders.com/656/656781.jpg);
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+}
+h1{
+    padding-top: 161px;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    color: white;
+}
+.titre{
+    font-size: 50px;
+}
+.article{
+    
+    padding-top: 50px;
+    padding-left:50px;
+    font-family: 'Times New Roman', Times, serif 
+}
+.square1{
+    margin-left: 50px;
+    padding-left:50px;
+    width: 400px;
+    height: 350px;
+    background-color: lightgrey;
+    border: 5px solid lightgrey;
+
+}
+.square2{
+    margin-left: 5px;
+    padding-left:50px;
+    width: 400px;
+    height: 350px;
+    background-color: lightgrey;
+    border: 5px solid lightgrey;
+}
+.title1{
+    padding-top: 50px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text1{
+    text-align: justify;
+    padding-right: 50px; 
+}
+
+.ligne{
+    display: inline-flex;
+    margin: 3px;
+}
+.square3{
+    margin-top: 0px;
+    margin-left: 50px;
+    padding-left: 50px;
+    width: 400px;
+    height: 350px;
+    background-color: gray;
+    border: 5px solid gray;
+}
+.square4{
+    margin-left: 5px;
+    padding-left:50px;
+    width: 400px;
+    height: 350px;
+    background-color:gray;
+    border: 5px solid gray;
+}
+.square5{
+        margin-left: 50px;
+        padding-left:50px;
+        width: 400px;
+        height: 350px;
+        background-color: lightgray;
+        border: 5px solid lightgrey;
+}
+.square6{
+    margin-left: 5px;
+    padding-left:50px;
+    width: 400px;
+    height: 350px;
+    background-color: lightgray;
+    border: 5px solid lightgrey;
+}
+.square1:hover{
+    border: 5px solid black; 
+}
+.square2:hover{
+    border: 5px solid black;
+}
+.square3:hover{
+    border: 5px solid black;
+}
+.square4:hover{
+    border: 5px solid black;
+}
+.square5:hover{
+    border: 5px solid black;
+}
+.square6:hover{
+    border: 5px solid black;
+}
+.center{
+    margin: auto;
+    width: 40%;
+}
